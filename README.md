@@ -11,6 +11,11 @@ Mulling over how we could bring some functional practices into Ruby and ponderin
   - Pipeline
   - Pipework
   - PipeTrait (module mixins)
+- Easy way to do patterns
+  - Saga
+  - CQRS?
+  - Event Sourcing?
+  - Cross-cutting concerns (logging?)
 - Reasons we want "functional" code
   - Simplified readability
   - Simplified testing
